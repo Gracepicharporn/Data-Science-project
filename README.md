@@ -8,6 +8,9 @@ The UK-DALE dataset [1] : https://jack-kelly.com/data/
 
 The REDD dataset [2] : http://redd.csail.mit.edu/
 
+The images were created from those dataset : https://drive.google.com/drive/folders/10xSd-jHxuIUw-8gJgUJNGD21TJExUcst?usp=sharing
+
+
 # Reference
 
 [1] Jack Kelly and William Knottenbelt. The UK-DALE dataset, domestic appliance-level electricity
